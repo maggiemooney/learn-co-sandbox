@@ -4,10 +4,10 @@ to enter irb, type irb into the terminal
 #anything inside quotations " " is called a string. this is one data type
 #another type of data are integers (aka numbers)
 
-puts = print this !
+puts = print this
 #in ruby, decimals are called "floats". so 7.2 is a float 
 
-commands for strings:
+#commands for strings:
   .length 
   .reverse
   .upcase 
@@ -15,5 +15,5 @@ commands for strings:
   .swapcase
   .capitalize 
 
-hint: you can chain these commands together!!for example: 
+#hint: you can chain these commands together!!for example: 
       .upcase.reverse.capitalize
