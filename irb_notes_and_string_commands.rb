@@ -1,11 +1,11 @@
 to enter irb, type irb into the terminal
-to exit irb, just type exit and hit enter! 
+#to exit irb, just type exit and hit enter! 
 
-anything inside quotations " " is called a string. this is one data type
-another type of data are integers (aka numbers)
+#anything inside quotations " " is called a string. this is one data type
+#another type of data are integers (aka numbers)
 
 puts = print this !
-in ruby, decimals are called "floats". so 7.2 is a float 
+#in ruby, decimals are called "floats". so 7.2 is a float 
 
 commands for strings:
   .length 
