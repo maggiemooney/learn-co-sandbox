@@ -42,6 +42,7 @@ playlist = {
 
 puts playlist["rock"] << "Pan!c at the Disco"
 puts playlist["rock"].insert (1, "The Beatles")
+end
 #here are two more ways to add stuff
 
 
