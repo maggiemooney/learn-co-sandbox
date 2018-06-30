@@ -31,9 +31,4 @@ end
 
 end
 
-
-
-
-
-
 cupid_shuffle
