@@ -21,6 +21,3 @@ age = 874
 
 #this is an example of interpolation! Basically we're plugging in variables into a string wherever we want them to go. to interpolate something we use #{variable_name_here}
 puts "Hi! My name is #{name} #{last_name}. I am #{age} years old."
-
-
-Add CommentCollaps
